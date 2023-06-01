@@ -11,5 +11,6 @@ npm run start
 ```
 
 3 - Output examples:
-<img width="300" src="https://i.imgur.com/KcVSUDG.png">
-<img width="300" src="https://i.imgur.com/es87ZVq.png">
+
+<img width="700" src="https://i.imgur.com/KcVSUDG.png">
+<img width="700" src="https://i.imgur.com/es87ZVq.png">
