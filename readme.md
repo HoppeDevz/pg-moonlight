@@ -5,6 +5,24 @@
 
 1 - Configure src/settings/moonlight.settings.json
 
+```json
+{
+    "referential-db": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    },
+
+    "target-db": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    }
+} 
+```
+
 2 - Execute following commands:
 ```shell
 npm run build
