@@ -1,0 +1,15 @@
+{
+    "referential-db": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    },
+
+    "target-db": {
+        "host": "",
+        "database": "",
+        "user": "",
+        "password": ""
+    }
+}
