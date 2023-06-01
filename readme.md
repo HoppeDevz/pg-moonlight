@@ -4,6 +4,7 @@
 ### Get started
 
 1 - Configure src/settings/moonlight.settings.json
+
 2 - Execute following commands:
 ```shell
 npm run build
